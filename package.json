@@ -1,0 +1,33 @@
+{
+  "name": "c4a_cp15_1241",
+  "version": "1.0.0",
+  "description": "Componente Practico 15",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadolakatt/c4a_cp15_1241.git"
+  },
+  "keywords": [
+    "componente",
+    "practico",
+    "15",
+    "misiontic",
+    "2022"
+  ],
+  "author": "MisionTic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadolakatt/c4a_cp15_1241/issues"
+  },
+  "homepage": "https://github.com/kadolakatt/c4a_cp15_1241#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "supertest": "^6.1.6"
+  }
+}
